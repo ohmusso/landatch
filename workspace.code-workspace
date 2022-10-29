@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"terminal.integrated.cwd": ".",
+		"editor.codeLens": false,
+		"diffEditor.codeLens": false,
+		"terminal.integrated.defaultProfile.windows": null
+	},
+    "extensions": {
+        "recommendations": [
+
+		]
+    }
+}
