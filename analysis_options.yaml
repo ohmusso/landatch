@@ -27,3 +27,9 @@ linter:
 
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
+
+# Excluding files for analyze
+analyzer:
+   exclude:
+     - lib/*.g.dart
+     - lib/web_api/*.g.dart

@@ -1,0 +1,7 @@
+{"status":"OK",
+ "data":[
+    {"Type":"宅地(土地と建物)","Region":"商業地","MunicipalityCode":"27118"},
+    {"Type":"宅地(土地)","Prefecture":"大阪府","Municipality":"大阪市城東区"},
+    {"Type":"中古マンション等","Period":"2022年第１四半期","Renovation":"未改装"}
+ ]
+}

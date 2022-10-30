@@ -1,0 +1,66 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "tradePrice": "Trade Price",
+    "@tradePrice": {
+      "description": "Trade price of land"
+    },
+    "unitPrice": "Unit Price",
+    "@unitPrice": {
+      "description": "Unit price of land"
+    },
+    "buildingYear": "Building Year",
+    "@buildingYear": {
+      "description": "Building year"
+    },
+    "area": "Area",
+    "@area": {
+      "description": "Area of land"
+    },
+    "summary": "Summary",
+    "@summary": {
+      "description": "Summary of land"
+    },
+    "average": "Average",
+    "@average": {
+      "description": "Average of trade pricies"
+    },
+    "median": "Median",
+    "@median": {
+      "description": "Median of trade pricies"
+    },
+    "currencyUnit": "currency unit: thousand dollar",
+    "@median": {
+      "description": "currency unit"
+    },
+    "structure": "Structure",
+    "@structure": {
+      "description": "structure of building"
+    },
+    "use": "Use",
+    "@use": {
+      "description": "use of land"
+    },
+    "purpose": "Purpose",
+    "@purpose": {
+      "description": "purpose of land"
+    },
+    "detaile": "Detaile",
+    "@detaile": {
+      "description": "detaile of land"
+    },
+    "numberOfTrades": "Counts",
+    "@numberOfTrades": {
+      "description": "number of trades"
+    },
+    "max": "Max",
+    "@max": {
+      "description": "max of trade price"
+    },
+    "min": "Min",
+    "@min": {
+      "description": "min of trade price"
+    }
+}
