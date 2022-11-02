@@ -1,4 +1,4 @@
-package com.example.landatch
+package com.ohmusso.landatch
 
 import io.flutter.embedding.android.FlutterActivity
 
