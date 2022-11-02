@@ -1,0 +1,18 @@
+{
+    "helloWorld": "こんにちは!",
+    "tradePrice": "取引価格",
+    "unitPrice": "坪単価",
+    "buildingYear": "築年数",
+    "area": "面積",
+    "summary": "サマリー",
+    "average": "平均",
+    "median": "中央値",
+    "currencyUnit": "単位: 万円",
+    "structure": "構造",
+    "use": "用途",
+    "purpose": "利用目的",
+    "detaile": "詳細",
+    "numberOfTrades": "取引件数",
+    "max": "最大",
+    "min": "最小"
+}
