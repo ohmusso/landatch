@@ -9,7 +9,7 @@ title: Home
 
 ランダッチは日本の不動産取引価格情報を閲覧するためのアプリです。
 
-"landatch" is an application for browsing land trade infomation in japan.
+"landatch" is an application for browsing land trade information in japan.
 
 不動産取引価格情報は下記のWebサイトから取得しています。
 
